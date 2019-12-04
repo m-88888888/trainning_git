@@ -28,3 +28,4 @@ m-88888888:trainning_git hachi$ git commit --amend
  ## pull request
  Hello, Pull Request
  
+PRテスト2
