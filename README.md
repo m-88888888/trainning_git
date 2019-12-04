@@ -29,3 +29,6 @@ m-88888888:trainning_git hachi$ git commit --amend
  Hello, Pull Request
  
 PRテスト2
+
+## PRフロー
+issue -> branch -> 開発 -> push -> pull request
