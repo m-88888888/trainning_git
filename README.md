@@ -25,4 +25,3 @@ m-88888888:trainning_git hachi$ git commit --amend
 
  pushするときはtagをつけた段階でブランチの状態が、リモートリポジトリのreleaseに保存される。
 
- test
